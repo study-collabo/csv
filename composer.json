@@ -1,21 +1,15 @@
 {
-    "name": "goodby/csv",
+    "name": "study-collabo/csv",
     "description": "CSV import/export library",
     "keywords": ["csv", "import", "export"],
-    "homepage": "https://github.com/goodby/csv",
+    "homepage": "https://github.com/study-collabo/csv",
     "license": "MIT",
     "authors": [
         {
-            "name": "reoring",
-            "email": "mori.reo@gmail.com",
-            "homepage": "https://www.facebook.com/reoring",
+            "name": "fujisawa",
+            "email": "fujisawa@study-collabo.com",
+            "homepage": "https://www.study-collabo.jp/",
             "role": "Developer"
-        },
-        {
-            "name": "suin",
-            "email": "suinyeze@gmail.com",
-            "homepage": "https://www.facebook.com/suinyeze",
-            "role": "Developer, Renaming Specialist"
         }
     ],
     "require": {
